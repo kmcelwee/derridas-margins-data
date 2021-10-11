@@ -131,25 +131,15 @@ Background
 Motivations and Purposes
 ------------------------
 
-* Specific research objectives:
-  > This project was born of prior work by Jae Intellectual on the correspondence between Famous Politician and Shy Poet, which is encapsulated in their book *These Letters are More Interesting than You'd Think* (Big University Press, 2020). The opening of the Newly Digitized Records from the Open Data Portal in 2017 presented an opportunity to scale up the collection and analysis of correspondences between various politicians and authors, so Intellectual enlisted the help of Quinn Theorist and Taylor Researcher to build this as a digital humanities project. The primary goal has been to aggregate, digitize, and index all known correspondences between national politicians and prominent authors in the US during the mid-Twentieth Century (c. 1920 - 1970). With this new collection of digital materials, the creators intend to uncover patterns of mutual influence among policymakers and literary writers that have not been recognized previously in the scholarly literature.
+* Overview
+  > Derrida’s Margins <derridas-margins.princeton.edu> is a website and online research tool for annotations from the Library of Jacques Derrida, housed at Princeton University Library (PUL) <library.princeton.edu>. Jacques Derrida is one of the major figures of twentieth-century thought, and his library--which bears the traces of decades of close reading--represents a major intellectual archive. This project focused on annotations related to Derrida’s landmark 1967 work De la grammatologie (Of Grammatology).
 
-* Limitations:
-  > While the creators have endeavored to be as comprehensive as possible within the scope described above, they are ultimately limited by what has been preserved and made available to-date. The creators are not aware of any systematic omissions of records from certain parties or geographic regions, but there is a significant bias toward white, cisgendered men in all of the available materials. The creators intend to surface underrepresented voices in future iterations of this project.
-
-* Intended impact:
-  > The primary audience for this dataset is scholarly researchers, but the creators are making it publicly available indefinitely in the hopes that any number of people may find it interesting. While there are no licensing restrictions against particular usages, it is not designed to have commercial value.
-
-* Other stakeholders and beneficiaries: None.
 
 Methodological Information
 --------------------------
 
-* Methods of data collection/generation:
-  > The materials were collected by the project creators via the archival sources listed in the prior section. Approximately one-quarter of the source materials were not already digitized--either hard copy or on microfilm--so the first step for these was to make high-resolution digital scans at the archive site. Of the remaining source materials that were already digitized, about one-half were also already processed through optical character recognition (OCR), but none was processed into a clean text file. So for all of the digitized-but-not-OCR'd materials, this project's contributors performed OCR at their home institutions. This led to a collection of fully digitized records combined from all source. For more details, see: Intellectual, Jae, Quinn Theorist, and Taylor Researcher. "Mock Digital Humanities Research Project Data Paper." *Discipline-Specific Journal* xx, no. yy (June 2021): pp-pp. <https://doi.org/yy.xxxx/pp.xx.xyz>.
-
-* Methods of data processing:
-  > As mentioned above, none of the source materials was already processed into a clean text file upon collection. After all were processed through OCR, the project contributors went through the generated text files to clean up miscoded characters, repair lost syntax (e.g., word splits and line breaks), and construct complete text documents from scans of multiple pages. Metadata from each text, and sometimes from its source archive, was also recorded by the project contributors in a spreadsheet that catalogues all texts in the collection. The end products were reviewed by the project creators for quality assurance. For more details, see: Intellectual, Jae, Quinn Theorist, and Taylor Researcher. "Mock Digital Humanities Research Project Data Paper." *Discipline-Specific Journal* xx, no. yy (June 2021): pp-pp. <https://doi.org/yy.xxxx/pp.xx.xyz>.
+* Data collection methods
+  > Works cited by Derrida in De la grammatologie were documented in a private Zotero library using a custom tagging system to indicate the location and kind of references in a particular work. That data was imported by script into a custom database, creating records for books, sections of books, and journal articles. Records were also created for references in De la grammatologie based on information encoded in the Zotero tags. The book and reference data was further cleaned and refined in the database after import; items with digital editions available from PUL were linked via IIIF. Interventions were documented by project researchers using a custom-built annotation solution, linked to digitized page images from PUL digital editions for this collection.
 
 * Software-specific information:
   > All files in this collection are given in open formats, so no specialty software is needed to use them.
