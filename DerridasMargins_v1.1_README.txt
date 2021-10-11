@@ -14,7 +14,7 @@ Provenance for this README
 * File name: DerridasMargins_v1.1_README.txt
 * Author: Kevin McElwee
 * Other contributors: Rebecca Sutton Koeser
-* Date created: 2021-XX-XX &&&
+* Date created: 2021-10-11
 
 Dataset Version and Release History
 -----------------------------------
@@ -37,10 +37,9 @@ Dataset Attribution and Usage
 
 * Dataset Contributors:
 
-  * Creators: Alexander Baron-Raiffe, Katie Chenoweth, Rebecca Munson, Rebecca Sutton Koeser
+  * Creators: Alexander Baron-Raiffe, Katie Chenoweth, Rebecca Sutton Koeser
 
-  * Other Contributors: 
- Xinyi Li, Jean Bauer, Benjamin Hicks, Kevin Glover, Nick Budak, Renée Altergott, Chad Córdova, Austin Hancock, Chloé Vettier, Jin Chow, Elise Freeman, Madeleine Marr, Jianing Zhao, Avital Ronell, Eduardo Cadava, Geoffrey Bennington, Kevin McElwee
+  * Other Contributors: Renée Altergott, Chad Córdova, Austin Hancock, Chloé Vettier, Jean Bauer, Benjamin Hicks, Nick Budak, Kevin McElwee
 
 * Date of Issue: 2021-XX-XX &&&
 
@@ -53,32 +52,33 @@ Dataset Attribution and Usage
 * Suggested Citations:
 
   * Dataset citation:
-    > Intellectual, Jae, Quinn Theorist, and Taylor Researcher. "Mock Digital Humanities Research Project Dataset." V1. July 2, 2021. Distributed by Reputable Research University Repository. <https://doi.org/xx.xxxx/xxxx-xxxx>.
-
-  * Corresponding publication:
-    > Intellectual, Jae, Quinn Theorist, and Taylor Researcher. "Mock Digital Humanities Research Project Data Paper." *Discipline-Specific Journal* xx, no. yy (July 2021): pp-pp. <https://doi.org/yy.xxxx/pp.xx.xyz>.
+    > Chenoweth, Katie; Baron-Raiffe, Alexander; Altergott, Renée; Córdova, Chad; Hancock, Austin; Vettier, Chloé; et al. (2018): Derrida's Margins datasets. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4256927.v1 &&&
 
 Contact Information
 -------------------
 
+&&&
 * Primary Contact:
   * Name: Jae Intellectual
   * Affiliations: Reputable Research University, International Institute
   * Email: jae@notreal.email
-
+&&&
 * Alternative Contact:
   * Name: Taylor Researcher
   * Affiliations: Reputable Research University
   * Email: tay@notreal.email
   * Address: Digital Humanities Center, Old Building, Reputable Research University, Quiet Town, Northeastern State, USA
+&&&
 
 * Contributor ORCID IDs:
-  * Jae Intellectual, <https://orcid.org/xxxx-xxxx-xxxx-xxxx>
-  * Quinn Theorist, <https://orcid.org/zzzz-zzzz-zzzz-zzzz>
-  * Taylor Researcher, <https://orcid.org/yyyy-yyyy-yyyy-yyyy>
-  * Ash Research-Assistant, <https://orcid.org/xyzx-xxxx-xxxx-xxxx>
-  * Parker Postdoc, <https://orcid.org/xxxx-xyzx-xxxx-xxxx>
-  * Moon Research-Fellow, <https://orcid.org/xxxx-xxxx-xyzx-xxxx>
+  * Rebecca Sutton Koeser, <0000-0002-8762-8057>
+  * Rebecca Munson, <0000-0002-8735-8405>
+  * Xinyi Li, <0000-0002-6114-3182>
+  * Jean Bauer, <0000-0002-4026-740X>
+  * Benjamin Hicks, <0000-0002-9973-560X>
+  * Nick Budak, <0000-0002-4542-0899>
+  * Chad Córdova, <0000-0002-9697-6782>
+  * Kevin McElwee, <0000-0003-2577-8102>
 
 - - -
 
