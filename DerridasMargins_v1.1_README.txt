@@ -1,0 +1,306 @@
+<!---
+This README uses Markdown syntax, though it is saved in .txt format.
+To view the file with its intended text formatting, save a copy as a .md file.
+Then you can open it with the browser or text viewer of your choice.
+For details on Markdown syntax, see <https://daringfireball.net/projects/markdown/>.
+--->
+
+Reference Information
+=====================
+
+Provenance for this README
+--------------------------
+
+* File name: DerridasMargins_v1.1_README.txt
+* Author: Kevin McElwee
+* Other contributors: Rebecca Sutton Koeser
+* Date created: 2021-XX-XX &&&
+
+Dataset Version and Release History
+-----------------------------------
+
+* Current Version:
+  * Number: 1.1.0
+  * Date: 2021-XX-XX &&&
+  * Persistent identifier: &&&
+  * Summary of changes: Added IIIF fields and fixed small errors found in the original dataset. Another CSV, containing insertion data was added.
+
+* Prior Versions:
+  * 1.0.0, 2018-09-10, https://doi.org/10.6084/m9.figshare.c.4256927.v1
+
+Dataset Attribution and Usage
+-----------------------------
+
+* Dataset Title: Derrida's Margins datasets
+
+* Persistent Identifier: <https://doi.org/xx.xxxx/xxxx-xxxx> &&&
+
+* Dataset Contributors:
+
+  * Creators: Alexander Baron-Raiffe, Katie Chenoweth, Rebecca Munson, Rebecca Sutton Koeser
+
+  * Other Contributors: 
+ Xinyi Li, Jean Bauer, Benjamin Hicks, Kevin Glover, Nick Budak, Renée Altergott, Chad Córdova, Austin Hancock, Chloé Vettier, Jin Chow, Elise Freeman, Madeleine Marr, Jianing Zhao, Avital Ronell, Eduardo Cadava, Geoffrey Bennington, Kevin McElwee
+
+* Date of Issue: 2021-XX-XX &&&
+
+* Publisher: Center for Digital Humanities at Princeton
+
+* License:
+  * Title: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
+  * Specification: <https://creativecommons.org/publicdomain/zero/1.0/>
+
+* Suggested Citations:
+
+  * Dataset citation:
+    > Intellectual, Jae, Quinn Theorist, and Taylor Researcher. "Mock Digital Humanities Research Project Dataset." V1. July 2, 2021. Distributed by Reputable Research University Repository. <https://doi.org/xx.xxxx/xxxx-xxxx>.
+
+  * Corresponding publication:
+    > Intellectual, Jae, Quinn Theorist, and Taylor Researcher. "Mock Digital Humanities Research Project Data Paper." *Discipline-Specific Journal* xx, no. yy (July 2021): pp-pp. <https://doi.org/yy.xxxx/pp.xx.xyz>.
+
+Contact Information
+-------------------
+
+* Primary Contact:
+  * Name: Jae Intellectual
+  * Affiliations: Reputable Research University, International Institute
+  * Email: jae@notreal.email
+
+* Alternative Contact:
+  * Name: Taylor Researcher
+  * Affiliations: Reputable Research University
+  * Email: tay@notreal.email
+  * Address: Digital Humanities Center, Old Building, Reputable Research University, Quiet Town, Northeastern State, USA
+
+* Contributor ORCID IDs:
+  * Jae Intellectual, <https://orcid.org/xxxx-xxxx-xxxx-xxxx>
+  * Quinn Theorist, <https://orcid.org/zzzz-zzzz-zzzz-zzzz>
+  * Taylor Researcher, <https://orcid.org/yyyy-yyyy-yyyy-yyyy>
+  * Ash Research-Assistant, <https://orcid.org/xyzx-xxxx-xxxx-xxxx>
+  * Parker Postdoc, <https://orcid.org/xxxx-xyzx-xxxx-xxxx>
+  * Moon Research-Fellow, <https://orcid.org/xxxx-xxxx-xyzx-xxxx>
+
+- - -
+
+Additional Dataset Metadata
+===========================
+
+Acknowledgements
+----------------
+
+* Funding sources: NEH GrantIDxyz
+
+* Institutional sponsors: Digital Humanities Center, Reputable Research University
+
+Relations to Other Datasets and/or Publications
+-----------------------------------------------
+
+* Other publicly accessible locations of the same data:
+  * <https://github.com/xxxxx/xxxxxxxxxx>
+
+* References for sources of the data:
+  * Archival Collection, Quaint Museum, Famous Family Foundation
+  * Digital Document Corpus, Open Access Library, <https://openlib.org/docs/xyz>
+  * Newly Digitized Records, Open Data Portal, Government Records Office, <https://opendata.gov/new.records/xyz>
+
+* References for derivations of the data:
+  * Cool Interactive Website, Digital Humanities Center, Reputable Research University, <https://cooldhsite.rru.edu>
+
+* References for replication code for the dataset and/or related analyses:
+  * The creators' related code is open source and actively updated in the same GitHub repository as the working data: <https://github.com/xxxxx/xxxxxxxxxx>.
+  * Formal releases of the creators' related code are published and linked together in Zenodo. This is the latest citation:
+    > Intellectual, Jae, Quinn Theorist, and Taylor Researcher. "Mock Digital Humanities Research Project Code." V2. June 23, 2021. Distributed by Zenodo. <https://doi.org/zz.xxxx/xyz-xxxx/v2>.
+
+* References for works that use and/or cite the data:
+  * Intellectual, Jae, Quinn Theorist, and Taylor Researcher. "Mock Digital Humanities Research Project Data Paper." *Discipline-Specific Journal* xx, no. yy (July 2021): pp-pp. <https://doi.org/yy.xxxx/pp.xx.xyz>.
+  * Intellectual, Jae, Quinn Theorist, and Taylor Researcher. "Mock Digital Humanities Research Project Model Card." arXiv:xxxx.xxxxx[cs.CL]. <https://arxiv.org/abs/xxxx.xxxxx>.
+
+Dates and Locations
+-------------------
+
+* Dates of data collection: start=2018-07-15; end=2021-04-22
+
+* Other dates pertaining to dataset contents: start=1910; end=1973
+
+* Geographic locations of data collection: USA
+
+* Other locations pertaining to dataset contents: USA
+
+- - -
+
+Background
+==========
+
+Motivations and Purposes
+------------------------
+
+* Specific research objectives:
+  > This project was born of prior work by Jae Intellectual on the correspondence between Famous Politician and Shy Poet, which is encapsulated in their book *These Letters are More Interesting than You'd Think* (Big University Press, 2020). The opening of the Newly Digitized Records from the Open Data Portal in 2017 presented an opportunity to scale up the collection and analysis of correspondences between various politicians and authors, so Intellectual enlisted the help of Quinn Theorist and Taylor Researcher to build this as a digital humanities project. The primary goal has been to aggregate, digitize, and index all known correspondences between national politicians and prominent authors in the US during the mid-Twentieth Century (c. 1920 - 1970). With this new collection of digital materials, the creators intend to uncover patterns of mutual influence among policymakers and literary writers that have not been recognized previously in the scholarly literature.
+
+* Limitations:
+  > While the creators have endeavored to be as comprehensive as possible within the scope described above, they are ultimately limited by what has been preserved and made available to-date. The creators are not aware of any systematic omissions of records from certain parties or geographic regions, but there is a significant bias toward white, cisgendered men in all of the available materials. The creators intend to surface underrepresented voices in future iterations of this project.
+
+* Intended impact:
+  > The primary audience for this dataset is scholarly researchers, but the creators are making it publicly available indefinitely in the hopes that any number of people may find it interesting. While there are no licensing restrictions against particular usages, it is not designed to have commercial value.
+
+* Other stakeholders and beneficiaries: None.
+
+Methodological Information
+--------------------------
+
+* Methods of data collection/generation:
+  > The materials were collected by the project creators via the archival sources listed in the prior section. Approximately one-quarter of the source materials were not already digitized--either hard copy or on microfilm--so the first step for these was to make high-resolution digital scans at the archive site. Of the remaining source materials that were already digitized, about one-half were also already processed through optical character recognition (OCR), but none was processed into a clean text file. So for all of the digitized-but-not-OCR'd materials, this project's contributors performed OCR at their home institutions. This led to a collection of fully digitized records combined from all source. For more details, see: Intellectual, Jae, Quinn Theorist, and Taylor Researcher. "Mock Digital Humanities Research Project Data Paper." *Discipline-Specific Journal* xx, no. yy (June 2021): pp-pp. <https://doi.org/yy.xxxx/pp.xx.xyz>.
+
+* Methods of data processing:
+  > As mentioned above, none of the source materials was already processed into a clean text file upon collection. After all were processed through OCR, the project contributors went through the generated text files to clean up miscoded characters, repair lost syntax (e.g., word splits and line breaks), and construct complete text documents from scans of multiple pages. Metadata from each text, and sometimes from its source archive, was also recorded by the project contributors in a spreadsheet that catalogues all texts in the collection. The end products were reviewed by the project creators for quality assurance. For more details, see: Intellectual, Jae, Quinn Theorist, and Taylor Researcher. "Mock Digital Humanities Research Project Data Paper." *Discipline-Specific Journal* xx, no. yy (June 2021): pp-pp. <https://doi.org/yy.xxxx/pp.xx.xyz>.
+
+* Software-specific information:
+  > All files in this collection are given in open formats, so no specialty software is needed to use them.
+
+- - -
+
+Data and File Overview
+======================
+
+Summary Metrics
+---------------
+
+* File count: 136
+* Total file size: 1.9 MB
+* Range of individual file sizes: 8 kB - 200 kB
+* File formats: TXT, CSV
+
+Naming Conventions
+------------------
+
+* Folder naming scheme:
+  * Parent folders are named according to politicians
+  * Child folders are named according to the poets/writers with whom a given politician correspondend
+
+* File naming scheme:
+  * Every file starts with the project name, and underscores are used to delimit name fields
+  * The top-level files are then named by their simple content: README or TextCatalog
+  * The text files are then named by their unique ID number, politician-author link, and approximate date
+    * e.g., MockDHProject_0001_Politician-01-Poet-01_1934-03.txt
+
+Table of Contents
+-----------------
+
+* MockDHProject_README.txt
+* MockDHProject_TextCatalog.csv
+* Politician-01/
+  * Poet-01/ (9 texts)
+  * Writer-01/ (14 texts)
+* Politician-02/
+  * Writer-01/ (6 texts)
+  * Writer-02/ (10 texts)
+  * Writer-03/ (1 text)
+* Politician-03/
+  * Poet-02/ (2 texts)
+  * Poet-03/ (3 texts)
+  * Poet-04/ (1 text)
+* Politician-04/
+  * Poet-01/ (2 texts)
+  * Poet-03/ (2 texts)
+  * Poet-05/ (1 text)
+  * Writer-01/ (22 texts)
+  * Writer-04/ (4 texts)
+  * Writer-05/ (3 texts)
+* Politician-05/
+  * Writer-02/ (8 texts)
+  * Writer-06/ (4 texts)
+  * Writer-07/ (2 texts)
+* Politician-06/
+  * Writer-02/ (12 texts)
+* Politician-07/
+  * Writer-03/ (3 texts)
+  * Writer-08/ (1 text)
+* Politician-08/
+  * Poet-06/ (1 text)
+  * Poet-07/ (2 texts)
+* Politician-09/
+  * Writer-09/ (2 texts)
+* Politician-10/
+  * Writer-03/ (5 texts)
+  * Writer-10/ (16 texts)
+
+Setup
+-----
+
+* Relationships between files/folders:
+  > The correspondences sent to/from some poets and writers are spread across subfolders within the relevant politicians' folders. However, the folder structure is not strictly necessary to keep all of the files organized, as the names of both parties to correspondence are included in file names, and each file name includes a unique text ID. Furthermore, the text catalogue file identifies all texts by their file names and several fields of metadata which may be used to sort and filter the files in various ways.
+
+* Recommendations for integration with other datasets:
+  > This version is stand-alone and inclusive of all materials provided in prior versions, so there is no need to attempt to integrate the files of this project at present. The creators are not aware of other datasets which would supplement this dataset in any direct way.
+
+- - -
+
+File/Folder Details
+===================
+
+Details for: MockDHProject_TextCatalog.csv
+------------------------------------------
+
+* Description: This file provides a central listing of all texts included in the collection with metadata garnered from the text contents and their source archives.
+
+* Format:
+  * Extension: .csv
+  * Media type: text/csv
+  * Encoding: UTF-8
+  * Standard: RFC 4180 (<https://tools.ietf.org/html/rfc4180>)
+
+* Size: 841 kB
+
+* Dimensions: 137 rows; 10 columns
+
+* Variables: The first line contains variable names as column headers. They are:
+  * TextID: a 3-digit numeric code to uniquely identify each text in the collection
+  * FileName: the complete file name for each text
+  * Sender: the name of the person sending the correspondence
+  * Receiver: the name of the person receiving the correspondence
+  * Date: the date of the correspondence, given precisely if known, or estimated by month/year in some cases
+  * Source: a reference for the archive/repository where the original document was found
+  * Medium: the original materials used for correspondence, in mutually exclusive categories:
+    * HandwrittenLetter
+    * TypewrittenLetter
+    * Telegram
+    * Facsimile
+    * Unknown
+  * PageLength: the number of pages of the original document scanned
+  * WordCount: the number of words contained in the body of the processed text, excluding frontmatter (dates, addresses, administrative stamps, etc.), salutations, and stopwords
+  * Subject: a brief description of the subject matter of the correspondence, replicated from the source catalogue if applicable, or from a subject line wihtin the text if available, or summarized by project contributors otherwise
+
+* Missing data codes: The chosen convention was to leave missing values blank, but this version does not contain any missing data.
+
+* Other encoding details:
+  * A comma is used as the record separator and CRLF as the line break (per RFC 4180).
+  * All string values are enclosed in double quotes (some contain punctuation, but none contain quotation marks)
+  * Dates follow the ISO 8601 standard (<https://www.iso.org/standard/70907.html>; see also <https://en.wikipedia.org/wiki/ISO_8601>).
+
+Details for an example folder: Politician-01/Poet-01/
+-----------------------------------------------------
+
+* Description: Container for all known correspondence between Politician-01 and Poet-01.
+
+* File Count: 9
+
+* Total File Size: 118 kB
+
+Details for an example text: MockDHProject_0001_Politician-01-Poet-01_1934-03.txt
+---------------------------------------------------------------------------------
+
+* Description: Typewritten letter from Politician-01 to Poet-01 with no explicit date within, but estimated by the source archive to have been written in March 1934.
+
+* Folder: Politician-01/Poet-01/
+
+* Format:
+  * Extension: .txt
+  * Media type: text/plain
+  * Encoding: UTF-8
+
+* Size(s): 11 kB
+
+* Word Count: 956
+
+- - -
+END OF README
