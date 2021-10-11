@@ -106,36 +106,22 @@ Special thanks to Wesley D. Markham, Assistant University Counsel in the in Offi
 Relations to Other Datasets and/or Publications
 -----------------------------------------------
 
-* Other publicly accessible locations of the same data:
-  * <https://github.com/xxxxx/xxxxxxxxxx>
-
-* References for sources of the data:
-  * Archival Collection, Quaint Museum, Famous Family Foundation
-  * Digital Document Corpus, Open Access Library, <https://openlib.org/docs/xyz>
-  * Newly Digitized Records, Open Data Portal, Government Records Office, <https://opendata.gov/new.records/xyz>
-
-* References for derivations of the data:
-  * Cool Interactive Website, Digital Humanities Center, Reputable Research University, <https://cooldhsite.rru.edu>
+* Data sourced from Princeton University Rare Books and Special Collections:
+  * The Library of Jacques Derrida, House Series, 1793-2013 <https://findingaids.princeton.edu/catalog/RBD1-1>
 
 * References for replication code for the dataset and/or related analyses:
-  * The creators' related code is open source and actively updated in the same GitHub repository as the working data: <https://github.com/xxxxx/xxxxxxxxxx>.
+  * The creators' related code is open source <https://github.com/Princeton-CDH/derrida-django>.
   * Formal releases of the creators' related code are published and linked together in Zenodo. This is the latest citation:
-    > Intellectual, Jae, Quinn Theorist, and Taylor Researcher. "Mock Digital Humanities Research Project Code." V2. June 23, 2021. Distributed by Zenodo. <https://doi.org/zz.xxxx/xyz-xxxx/v2>.
-
-* References for works that use and/or cite the data:
-  * Intellectual, Jae, Quinn Theorist, and Taylor Researcher. "Mock Digital Humanities Research Project Data Paper." *Discipline-Specific Journal* xx, no. yy (July 2021): pp-pp. <https://doi.org/yy.xxxx/pp.xx.xyz>.
-  * Intellectual, Jae, Quinn Theorist, and Taylor Researcher. "Mock Digital Humanities Research Project Model Card." arXiv:xxxx.xxxxx[cs.CL]. <https://arxiv.org/abs/xxxx.xxxxx>.
+    > Intellectual, Jae, Quinn Theorist, and Taylor Researcher. "Mock Digital Humanities Research Project Code." V2. June 23, 2021. Distributed by Zenodo. <https://doi.org/zz.xxxx/xyz-xxxx/v2>. &&&
 
 Dates and Locations
 -------------------
 
 * Dates of data collection: start=2018-07-15; end=2021-04-22
 
-* Other dates pertaining to dataset contents: start=1910; end=1973
+* Other dates pertaining to dataset contents: start=760BC; end=1968AD
 
-* Geographic locations of data collection: USA
-
-* Other locations pertaining to dataset contents: USA
+* Locations pertaining to dataset contents: Paris, The Hague
 
 - - -
 
