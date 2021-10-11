@@ -114,7 +114,7 @@ Relations to Other Datasets and/or Publications
 Dates and Locations
 -------------------
 
-* Dates of data collection: start=2018-07-15; end=2021-04-22
+&&& KM: I'm not sure this section adds value to a potential researcher &&&
 
 * Other dates pertaining to dataset contents: start=760BC; end=1968AD
 
@@ -149,23 +149,17 @@ Data and File Overview
 Summary Metrics
 ---------------
 
-* File count: 136
-* Total file size: 1.9 MB
-* Range of individual file sizes: 8 kB - 200 kB
-* File formats: TXT, CSV
+* File count: 10
+* Total file size: 5.1 MB
+* Range of individual file sizes: 12K - 1.1 MB
+* File formats: TXT, CSV, JSON
 
 Naming Conventions
 ------------------
 
-* Folder naming scheme:
-  * Parent folders are named according to politicians
-  * Child folders are named according to the poets/writers with whom a given politician correspondend
-
 * File naming scheme:
-  * Every file starts with the project name, and underscores are used to delimit name fields
-  * The top-level files are then named by their simple content: README or TextCatalog
-  * The text files are then named by their unique ID number, politician-author link, and approximate date
-    * e.g., MockDHProject_0001_Politician-01-Poet-01_1934-03.txt
+  * Each CSV files are mapped to similarly-named JSON files.
+
 
 Table of Contents
 -----------------
@@ -185,7 +179,7 @@ Setup
 -----
 
 * Relationships between files/folders:
-  > All CSV files are mapped to similarly-named JSON files. Relationships like foreign keys are documented in datapackage.yaml
+  > Relationships like foreign keys are documented in datapackage.yaml
 
 - - -
 
@@ -196,7 +190,7 @@ Details for: datapackage.yaml
 ------------------------------------------
 
 The datapackage.yaml file uses FrictionlessData <frictionlessdata.io> to validate CSVs.
-Foreign keys, field types, and other constraints are documented there.
+Foreign keys, field types, and other constraints are documented in this file.
 
 Details for: annotations.csv
 ------------------------------------------
