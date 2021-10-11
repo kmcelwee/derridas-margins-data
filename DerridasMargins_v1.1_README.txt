@@ -57,18 +57,15 @@ Dataset Attribution and Usage
 Contact Information
 -------------------
 
-&&&
 * Primary Contact:
-  * Name: Jae Intellectual
-  * Affiliations: Reputable Research University, International Institute
-  * Email: jae@notreal.email
-&&&
+  * Name: Katie Chenoweth
+  * Affiliations: Princeton University, Department of French & Italian
+  * Email: kac3@princeton.edu
+
 * Alternative Contact:
-  * Name: Taylor Researcher
-  * Affiliations: Reputable Research University
-  * Email: tay@notreal.email
-  * Address: Digital Humanities Center, Old Building, Reputable Research University, Quiet Town, Northeastern State, USA
-&&&
+  * Name: Rebecca Sutton Koeser
+  * Affiliations: Princeton University, Center for Digital Humanities
+  * Email: rebecca.s.koeser@princeton.edu
 
 * Contributor ORCID IDs:
   * Rebecca Sutton Koeser, <0000-0002-8762-8057>
@@ -246,7 +243,7 @@ Details for: references.csv
   * Encoding: UTF-8
   * Standard: RFC 4180 (<https://tools.ietf.org/html/rfc4180>)
 
-* Size: 841 kB &&&
+* Size: 671K
 
 * Dimensions: 1052 rows; 12 columns
 
@@ -322,7 +319,7 @@ Details for: insertions.csv
   * Encoding: UTF-8
   * Standard: RFC 4180 (<https://tools.ietf.org/html/rfc4180>)
 
-* Size: 841 kB &&&
+* Size: 198K
 
 * Dimensions: 251 rows; 9 columns
 
