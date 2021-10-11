@@ -88,9 +88,20 @@ Additional Dataset Metadata
 Acknowledgements
 ----------------
 
-* Funding sources: NEH GrantIDxyz
+The following people made this project possible by facilitating Princeton’s purchase of Jacques Derrida’s personal library.
 
-* Institutional sponsors: Digital Humanities Center, Reputable Research University
+* Karin Trainer, University Librarian from 1996 to 2016
+* John Logan, Literature Bibliographer
+
+The following people provided critical information and support to the project team
+
+* Regine Heberlein, Principal Cataloger & Metadata Analyst, Cataloging, Archival, and Metadata Services, Library Information Technology and Metadata Services 
+* Jon Stroop, Director of Library Information Technology and Digital Services
+* Esmé Cowles, Digital Infrastructure Developer, Library Information Technology and Metadata Services
+
+Special thanks to Wesley D. Markham, Assistant University Counsel in the in Office of the General Counsel for his sage and timely advice, without which this project could never have appeared on the web.
+
+* Derrida’s Margins was developed in close collaboration with the Princeton University Library, especially the Digital Repository and Discovery Services, the Cataloguing and Metadata Services, and Rare Books and Special Collections.
 
 Relations to Other Datasets and/or Publications
 -----------------------------------------------
