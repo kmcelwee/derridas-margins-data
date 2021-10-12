@@ -40,8 +40,8 @@ assert not any([';' in link for link in all_links])
 print(f'Number of unique links: {len(all_links)}')
 
 
-# DETERMINE STATUS CODES
 
+# DETERMINE STATUS CODES
 # Decide whether to continue where we left off or run script fresh
 if OVERWRITE_JSON:
     url_status_codes = {}
@@ -49,16 +49,19 @@ else:
     with open(STATUS_CODE_JSON) as f:
         url_status_codes = json.load(f)
 
-# Find status code for all links
-for i, link in enumerate(list(all_links)):
-    if link not in url_status_codes:
-        code = requests.get(link).status_code
-        url_status_codes[link] = code
+untested_links = [link for link in all_links if link not in url_status_codes]
+print(f'Number of un-tested links: {len(untested_links)}')
 
-        if code == 200:
-            print(f'[green]\t{i}\t{code}\t{link}[/green]')
-        else:
-            print(f'[red]\t{i}\t{code}\t{link}[/red]')
+
+# Find status code for all links
+for i, link in enumerate(untested_links):
+    code = requests.get(link).status_code
+    url_status_codes[link] = code
+
+    if code == 200:
+        print(f'[green]\t{i}\t{code}\t{link}[/green]')
+    else:
+        print(f'[red]\t{i}\t{code}\t{link}[/red]')
 
     # Update status code JSON periodically
     if i % 100 == 0:
