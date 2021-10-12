@@ -55,5 +55,6 @@ for i, link in enumerate(list(all_links)):
     else:
         print(f'[red]\t{i}\t{code}\t{link}[/red]')
 
-with open('scripts/status-codes.json', 'w') as f:
-    json.dump(url_status_codes, f, indent=4)
+    if i % 100 == 0:
+        with open('scripts/status-codes.json', 'w') as f:
+            json.dump(url_status_codes, f, indent=4)
