@@ -111,15 +111,6 @@ Relations to Other Datasets and/or Publications
   * Formal releases of the creators' related code are published and linked together in Zenodo. This is the latest citation:
     > Intellectual, Jae, Quinn Theorist, and Taylor Researcher. "Mock Digital Humanities Research Project Code." V2. June 23, 2021. Distributed by Zenodo. <https://doi.org/zz.xxxx/xyz-xxxx/v2>. &&&
 
-Dates and Locations
--------------------
-
-&&& KM: I'm not sure this section adds value to a potential researcher &&&
-
-* Other dates pertaining to dataset contents: start=760BC; end=1968AD
-
-* Locations pertaining to dataset contents: Paris, The Hague
-
 - - -
 
 Background
