@@ -26,7 +26,7 @@ Dataset Version and Release History
   * Summary of changes: Added IIIF fields and fixed small errors found in the original dataset. Another CSV containing insertion data was added.
 
 * Prior Versions:
-  * 1.0.0, 2018-09-10, https://doi.org/10.6084/m9.figshare.c.4256927.v1
+  * 1.0.0, 2018-09-10, <https://doi.org/10.6084/m9.figshare.c.4256927.v1>
 
 Dataset Attribution and Usage
 -----------------------------
@@ -52,7 +52,7 @@ Dataset Attribution and Usage
 * Suggested Citations:
 
   * Dataset citation:
-    > Chenoweth, Katie; Baron-Raiffe, Alexander; Altergott, Renée; Córdova, Chad; Hancock, Austin; Vettier, Chloé; et al. (2018): Derrida's Margins datasets. https://doi.org/10.34770/8nc6-4418 &&&
+    > Chenoweth, Katie; Baron-Raiffe, Alexander; Altergott, Renée; Córdova, Chad; Hancock, Austin; Vettier, Chloé; et al. (2018): Derrida's Margins datasets. <https://doi.org/10.34770/8nc6-4418> &&&
 
 Contact Information
 -------------------
@@ -92,7 +92,7 @@ The following people made this project possible by facilitating Princeton’s pu
 
 The following people provided critical information and support to the project team
 
-* Regine Heberlein, Principal Cataloger & Metadata Analyst, Cataloging, Archival, and Metadata Services, Library Information Technology and Metadata Services 
+* Regine Heberlein, Principal Cataloger & Metadata Analyst, Cataloging, Archival, and Metadata Services, Library Information Technology and Metadata Services
 * Jon Stroop, Director of Library Information Technology and Digital Services
 * Esmé Cowles, Digital Infrastructure Developer, Library Information Technology and Metadata Services
 
@@ -121,7 +121,6 @@ Motivations and Purposes
 
 * Overview
   > Derrida’s Margins <derridas-margins.princeton.edu> is a website and online research tool for annotations from the Library of Jacques Derrida, housed at Princeton University Library (PUL) <library.princeton.edu>. Jacques Derrida is one of the major figures of twentieth-century thought, and his library--which bears the traces of decades of close reading--represents a major intellectual archive. This project focused on annotations related to Derrida’s landmark 1967 work De la grammatologie (Of Grammatology).
-
 
 Methodological Information
 --------------------------
@@ -153,7 +152,6 @@ Naming Conventions
 * Field conventions:
   * Empty values are blank cells
   * Multi-valued cells are separated by semicolon
-
 
 Table of Contents
 -----------------
@@ -219,7 +217,6 @@ Details for: annotations.csv
   * annotation_region : IIIF image region for the portion of the book page that contains the annotation
   * page_iiif : IIIF image for the book page that includes the annotation
 
-
 Details for: references.csv
 ------------------------------------------
 
@@ -248,7 +245,6 @@ Details for: references.csv
   * interventions : A URI to the linked annotation (if Derrida had a book where this reference was annotated.)
   * section : Section of De la grammatologie where the reference is located
   * chapter : Chapter of De la grammatologie where the reference is located
-
 
 Details for: library.csv
 ------------------------------------------
@@ -294,7 +290,6 @@ Details for: library.csv
   * has_digital_edition : Whether the Princeton University Library digital edition linked in the database and available on the site
   * catalog_uri : A link to the instance in Princeton University Library's finding aids catalog
   * zotero_id : Zotero ID for this item in the version 1 (2018) data export
-
 
 Details for: insertions.csv
 ------------------------------------------
