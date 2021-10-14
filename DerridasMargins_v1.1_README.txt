@@ -260,7 +260,7 @@ Details for: library.csv
 
 * Size: 60K
 
-* Dimensions: 222 rows; 28 columns
+* Dimensions: 223 rows; 28 columns
 
 * Variables: The first line contains variable names as column headers. They are:
   * id : Unique link to the book's detail page
@@ -305,7 +305,7 @@ Details for: insertions.csv
 
 * Size: 198K
 
-* Dimensions: 228 rows; 9 columns
+* Dimensions: 252 rows; 9 columns
 
 * Variables: The first line contains variable names as column headers. They are:
   * id : A unique identifier for the given insertion
