@@ -150,6 +150,9 @@ Naming Conventions
 
 * File naming scheme:
   * Each CSV files are mapped to similarly-named JSON files.
+* Field conventions:
+  * Empty values are blank cells
+  * Multi-valued cells are separated by semicolon
 
 
 Table of Contents
@@ -196,7 +199,7 @@ Details for: annotations.csv
 
 * Size: 797K
 
-* Dimensions: 1420 rows; 16 columns
+* Dimensions: 1421 rows; 16 columns
 
 * Variables: The first line contains variable names as column headers. They are:
   * id : Unique identifier linking to the annotation's page
@@ -230,7 +233,7 @@ Details for: references.csv
 
 * Size: 671K
 
-* Dimensions: 1052 rows; 12 columns
+* Dimensions: 1053 rows; 12 columns
 
 * Variables: The first line contains variable names as column headers. They are:
   * id : An identifier linking to the reference's detail page. Note that these are not unique.
@@ -260,7 +263,7 @@ Details for: library.csv
 
 * Size: 60K
 
-* Dimensions: 222 rows; 23 columns
+* Dimensions: 222 rows; 28 columns
 
 * Variables: The first line contains variable names as column headers. They are:
   * id : Unique link to the book's detail page
@@ -268,7 +271,7 @@ Details for: library.csv
   * title : Title of the given work
   * alternate_title : Alternate title, if different from the work title (e.g. for translations)
   * work_year : Year in which the work was published
-  * copyright_year :
+  * copyright_year : [self explanatory]
   * print_date : Printing date for this specific edition
   * authors : Authors of the work
   * contributors : Known contributors to the work (e.g translators or editors)
@@ -306,7 +309,7 @@ Details for: insertions.csv
 
 * Size: 198K
 
-* Dimensions: 251 rows; 9 columns
+* Dimensions: 228 rows; 9 columns
 
 * Variables: The first line contains variable names as column headers. They are:
   * id : A unique identifier for the given insertion
