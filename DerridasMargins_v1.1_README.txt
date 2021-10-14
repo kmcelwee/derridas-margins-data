@@ -35,11 +35,22 @@ Dataset Attribution and Usage
 
 * Persistent Identifier: <https://doi.org/10.34770/8nc6-4418>
 
-* Dataset Contributors:
+* Dataset Contributors (and ORCIDs):
 
-  * Creators: Alexander Baron-Raiffe, Katie Chenoweth, Rebecca Sutton Koeser
+  * Creators: 
+    * Katie Chenoweth
+    * Alexander Baron-Raiffe
+    * Rebecca Sutton Koeser, <0000-0002-8762-8057>
 
-  * Other Contributors: Renée Altergott, Chad Córdova, Austin Hancock, Chloé Vettier, Jean Bauer, Benjamin Hicks, Nick Budak, Kevin McElwee
+  * Other Contributors:
+    * Renée Altergott
+    * Jean Bauer, <0000-0002-4026-740X>
+    * Nick Budak, <0000-0002-4542-0899>
+    * Chad Córdova, <0000-0002-9697-6782>
+    * Austin Hancock
+    * Benjamin Hicks, <0000-0002-9973-560X>
+    * Kevin McElwee, <0000-0003-2577-8102>
+    * Chloé Vettier
 
 * Date of Issue: 2021-10-14
 
@@ -49,10 +60,7 @@ Dataset Attribution and Usage
   * Title: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication
   * Specification: <https://creativecommons.org/publicdomain/zero/1.0/>
 
-* Suggested Citations:
-
-  * Dataset citation:
-    > Chenoweth, Katie; Baron-Raiffe, Alexander; Altergott, Renée; Córdova, Chad; Hancock, Austin; Vettier, Chloé; et al. (2018): Derrida's Margins datasets. <https://doi.org/10.34770/8nc6-4418> &&&
+* Citations are detailed on the Derrida's Margins website: <https://derridas-margins.princeton.edu/cite/>
 
 Contact Information
 -------------------
@@ -68,14 +76,8 @@ Contact Information
   * Email: rebecca.s.koeser@princeton.edu
 
 * Contributor ORCID IDs:
-  * Rebecca Sutton Koeser, <0000-0002-8762-8057>
-  * Rebecca Munson, <0000-0002-8735-8405>
-  * Xinyi Li, <0000-0002-6114-3182>
-  * Jean Bauer, <0000-0002-4026-740X>
-  * Benjamin Hicks, <0000-0002-9973-560X>
-  * Nick Budak, <0000-0002-4542-0899>
-  * Chad Córdova, <0000-0002-9697-6782>
-  * Kevin McElwee, <0000-0003-2577-8102>
+  * Nick Budak, 
+  * Chad Córdova, 
 
 - - -
 
