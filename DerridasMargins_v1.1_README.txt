@@ -21,7 +21,7 @@ Dataset Version and Release History
 
 * Current Version:
   * Number: 1.1.0
-  * Date: 2021-XX-XX &&&
+  * Date: 2021-10-14
   * Persistent identifier: <https://doi.org/10.34770/8nc6-4418>
   * Summary of changes: Added IIIF fields and fixed small errors found in the original dataset. Another CSV containing insertion data was added.
 
@@ -41,7 +41,7 @@ Dataset Attribution and Usage
 
   * Other Contributors: Renée Altergott, Chad Córdova, Austin Hancock, Chloé Vettier, Jean Bauer, Benjamin Hicks, Nick Budak, Kevin McElwee
 
-* Date of Issue: 2021-XX-XX &&&
+* Date of Issue: 2021-10-14
 
 * Publisher: Center for Digital Humanities at Princeton
 
@@ -108,8 +108,7 @@ Relations to Other Datasets and/or Publications
 
 * References for replication code for the dataset and/or related analyses:
   * The creators' related code is open source <https://github.com/Princeton-CDH/derrida-django>.
-  * Formal releases of the creators' related code are published and linked together in Zenodo. This is the latest citation:
-    > Intellectual, Jae, Quinn Theorist, and Taylor Researcher. "Mock Digital Humanities Research Project Code." V2. June 23, 2021. Distributed by Zenodo. <https://doi.org/zz.xxxx/xyz-xxxx/v2>. &&&
+  * Formal releases of the creators' related code are published and linked together in Zenodo. <10.5281/zenodo.1299971>
 
 - - -
 
