@@ -3462,8 +3462,8 @@
       "Philosophy"
     ],
     "languages": [
-      "English",
-      "German"
+      "German",
+      "English"
     ],
     "has_digital_edition": true,
     "catalog_uri": "https://findingaids.princeton.edu/catalog/RBD1_c12840",
@@ -3545,29 +3545,6 @@
     "zotero_id": "WQKFKKC7"
   },
   {
-    "id": "https://derridas-margins.princeton.edu/titles/111/",
-    "item_type": "Book",
-    "title": "Profession de foi du vicaire Savoyard",
-    "work_year": 1762,
-    "copyright_year": 1966,
-    "authors": [
-      "Rousseau, Jean-Jacques"
-    ],
-    "is_extant": false,
-    "is_annotated": false,
-    "is_translation": false,
-    "has_dedication": false,
-    "has_insertions": false,
-    "subjects": [
-      "Philosophy",
-      "Religion"
-    ],
-    "languages": [
-      "French"
-    ],
-    "has_digital_edition": false
-  },
-  {
     "id": "https://derridas-margins.princeton.edu/titles/130/",
     "item_type": "Book",
     "title": "Profession de foi du vicaire Savoyard",
@@ -3596,6 +3573,29 @@
     "has_digital_edition": true,
     "catalog_uri": "https://findingaids.princeton.edu/catalog/RBD1_c9815",
     "zotero_id": "RHQZBB89"
+  },
+  {
+    "id": "https://derridas-margins.princeton.edu/titles/111/",
+    "item_type": "Book",
+    "title": "Profession de foi du vicaire Savoyard",
+    "work_year": 1762,
+    "copyright_year": 1966,
+    "authors": [
+      "Rousseau, Jean-Jacques"
+    ],
+    "is_extant": false,
+    "is_annotated": false,
+    "is_translation": false,
+    "has_dedication": false,
+    "has_insertions": false,
+    "subjects": [
+      "Philosophy",
+      "Religion"
+    ],
+    "languages": [
+      "French"
+    ],
+    "has_digital_edition": false
   },
   {
     "id": "https://derridas-margins.princeton.edu/titles/218/",
@@ -4637,12 +4637,39 @@
       "Philosophy"
     ],
     "languages": [
-      "English",
-      "German"
+      "German",
+      "English"
     ],
     "has_digital_edition": true,
     "catalog_uri": "https://findingaids.princeton.edu/catalog/RBD1_c13199",
     "zotero_id": "S2CZKU65"
+  },
+  {
+    "id": "https://derridas-margins.princeton.edu/titles/182/",
+    "item_type": "Book",
+    "title": "Cratylus",
+    "alternate_title": "Cratyle",
+    "work_year": -380,
+    "copyright_year": 1936,
+    "authors": [
+      "Plato"
+    ],
+    "publisher": "Garnier",
+    "is_extant": true,
+    "is_annotated": true,
+    "is_translation": false,
+    "has_dedication": false,
+    "has_insertions": true,
+    "subjects": [
+      "Philosophy"
+    ],
+    "languages": [
+      "French",
+      "Ancient Greek"
+    ],
+    "has_digital_edition": true,
+    "catalog_uri": "https://findingaids.princeton.edu/catalog/RBD1_c10089",
+    "zotero_id": "I9ZZQTUF"
   },
   {
     "id": "https://derridas-margins.princeton.edu/titles/89/",
@@ -4673,33 +4700,6 @@
     "has_digital_edition": false,
     "catalog_uri": "https://findingaids.princeton.edu/catalog/RBD1_c10095",
     "zotero_id": "3BA862JU"
-  },
-  {
-    "id": "https://derridas-margins.princeton.edu/titles/182/",
-    "item_type": "Book",
-    "title": "Cratylus",
-    "alternate_title": "Cratyle",
-    "work_year": -380,
-    "copyright_year": 1936,
-    "authors": [
-      "Plato"
-    ],
-    "publisher": "Garnier",
-    "is_extant": true,
-    "is_annotated": true,
-    "is_translation": false,
-    "has_dedication": false,
-    "has_insertions": true,
-    "subjects": [
-      "Philosophy"
-    ],
-    "languages": [
-      "French",
-      "Ancient Greek"
-    ],
-    "has_digital_edition": true,
-    "catalog_uri": "https://findingaids.princeton.edu/catalog/RBD1_c10089",
-    "zotero_id": "I9ZZQTUF"
   },
   {
     "id": "https://derridas-margins.princeton.edu/titles/221/",
