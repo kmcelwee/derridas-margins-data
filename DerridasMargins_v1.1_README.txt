@@ -22,7 +22,7 @@ Dataset Version and Release History
 * Current Version:
   * Number: 1.1.0
   * Date: 2021-XX-XX &&&
-  * Persistent identifier: &&&
+  * Persistent identifier: <https://doi.org/10.34770/8nc6-4418>
   * Summary of changes: Added IIIF fields and fixed small errors found in the original dataset. Another CSV containing insertion data was added.
 
 * Prior Versions:
@@ -33,7 +33,7 @@ Dataset Attribution and Usage
 
 * Dataset Title: Derrida's Margins datasets
 
-* Persistent Identifier: <https://doi.org/xx.xxxx/xxxx-xxxx> &&&
+* Persistent Identifier: <https://doi.org/10.34770/8nc6-4418>
 
 * Dataset Contributors:
 
@@ -52,7 +52,7 @@ Dataset Attribution and Usage
 * Suggested Citations:
 
   * Dataset citation:
-    > Chenoweth, Katie; Baron-Raiffe, Alexander; Altergott, Renée; Córdova, Chad; Hancock, Austin; Vettier, Chloé; et al. (2018): Derrida's Margins datasets. figshare. Collection. https://doi.org/10.6084/m9.figshare.c.4256927.v1 &&&
+    > Chenoweth, Katie; Baron-Raiffe, Alexander; Altergott, Renée; Córdova, Chad; Hancock, Austin; Vettier, Chloé; et al. (2018): Derrida's Margins datasets. https://doi.org/10.34770/8nc6-4418 &&&
 
 Contact Information
 -------------------
