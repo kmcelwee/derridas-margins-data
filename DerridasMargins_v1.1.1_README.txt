@@ -11,22 +11,22 @@ Reference Information
 Provenance for this README
 --------------------------
 
-* File name: DerridasMargins_v1.1_README.txt
+* File name: DerridasMargins_v1.1.1_README.txt
 * Author: Kevin McElwee
 * Other contributors: Rebecca Sutton Koeser
-* Date created: 2021-10-11
+* Date created: 2021-10-26
 
 Dataset Version and Release History
 -----------------------------------
 
 * Current Version:
-  * Number: 1.1.0
-  * Date: 2021-10-14
-  * Persistent identifier: <https://doi.org/10.34770/8nc6-4418>
-  * Summary of changes: Added IIIF fields and fixed small errors found in the 1.0 version of the dataset. A new CSV containing insertion data was added.
-
+  * Number: 1.1.1
+  * Date: 2021-10-26
+  * Persistent identifier: <&&&>
+  * Summary of changes: Removed the unnecessary "dimensions" field from the library dataset. 
 
 * Prior Versions:
+  * 1.1.0, 2021-10-14, <https://doi.org/10.34770/8nc6-4418>
   * 1.0.0, 2018-09-10, <https://doi.org/10.6084/m9.figshare.c.4256927.v1>
 
 Dataset Attribution and Usage
@@ -34,7 +34,7 @@ Dataset Attribution and Usage
 
 * Dataset Title: Derrida's Margins datasets
 
-* Persistent Identifier: <https://doi.org/10.34770/8nc6-4418>
+* Persistent Identifier: <&&&>
 
 * Dataset Contributors (and ORCIDs):
 
@@ -53,7 +53,7 @@ Dataset Attribution and Usage
     * Kevin McElwee, <0000-0003-2577-8102>
     * Chloé Vettier
 
-* Date of Issue: 2021-10-14
+* Date of Issue: 2021-10-26
 
 * Publisher: Center for Digital Humanities at Princeton
 
@@ -277,7 +277,6 @@ Details for: library.csv
   * has_dedication : This copy has a dedication inscribed
   * has_insertions : The instance contains insertions
   * copy : Label to distinguish multiple copies of the same edition
-  * dimensions : Dimensions of the instance in Derrida's library
   * subjects : The subjects covered in the work
   * languages : The languages used in the work
   * journal_title : The name of the journal in which the journal article was published
