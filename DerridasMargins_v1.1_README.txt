@@ -23,7 +23,8 @@ Dataset Version and Release History
   * Number: 1.1.0
   * Date: 2021-10-14
   * Persistent identifier: <https://doi.org/10.34770/8nc6-4418>
-  * Summary of changes: Added IIIF fields and fixed small errors found in the 1.1 version of the dataset A new CSV containing insertion data was added.
+  * Summary of changes: Added IIIF fields and fixed small errors found in the 1.0 version of the dataset. A new CSV containing insertion data was added.
+
 
 * Prior Versions:
   * 1.0.0, 2018-09-10, <https://doi.org/10.6084/m9.figshare.c.4256927.v1>
