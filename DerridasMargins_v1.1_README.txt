@@ -40,11 +40,11 @@ Dataset Attribution and Usage
 
   * Creators: 
     * Katie Chenoweth
-    * Alexander Baron-Raiffe
     * Rebecca Sutton Koeser, <0000-0002-8762-8057>
 
   * Other Contributors:
     * Renée Altergott
+    * Alexander Baron-Raiffe
     * Jean Bauer, <0000-0002-4026-740X>
     * Nick Budak, <0000-0002-4542-0899>
     * Chad Córdova, <0000-0002-9697-6782>
