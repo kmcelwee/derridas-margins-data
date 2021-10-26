@@ -23,7 +23,8 @@ Dataset Version and Release History
   * Number: 1.1.0
   * Date: 2021-10-14
   * Persistent identifier: <https://doi.org/10.34770/8nc6-4418>
-  * Summary of changes: Added IIIF fields and fixed small errors found in the original dataset. Another CSV containing insertion data was added.
+  * Summary of changes: Added IIIF fields and fixed small errors found in the 1.0 version of the dataset. A new CSV containing insertion data was added.
+
 
 * Prior Versions:
   * 1.0.0, 2018-09-10, <https://doi.org/10.6084/m9.figshare.c.4256927.v1>
@@ -39,11 +40,11 @@ Dataset Attribution and Usage
 
   * Creators: 
     * Katie Chenoweth
-    * Alexander Baron-Raiffe
     * Rebecca Sutton Koeser, <0000-0002-8762-8057>
 
   * Other Contributors:
     * Renée Altergott
+    * Alexander Baron-Raiffe
     * Jean Bauer, <0000-0002-4026-740X>
     * Nick Budak, <0000-0002-4542-0899>
     * Chad Córdova, <0000-0002-9697-6782>
@@ -74,10 +75,6 @@ Contact Information
   * Name: Rebecca Sutton Koeser
   * Affiliations: Princeton University, Center for Digital Humanities
   * Email: rebecca.s.koeser@princeton.edu
-
-* Contributor ORCID IDs:
-  * Nick Budak, 
-  * Chad Córdova, 
 
 - - -
 
@@ -127,7 +124,7 @@ Methodological Information
 --------------------------
 
 * Data collection methods
-  > Works cited by Derrida in De la grammatologie were documented in a private Zotero library using a custom tagging system to indicate the location and kind of references in a particular work. That data was imported by script into a custom database, creating records for books, sections of books, and journal articles. Records were also created for references in De la grammatologie based on information encoded in the Zotero tags. The book and reference data was further cleaned and refined in the database after import; items with digital editions available from PUL were linked via IIIF. Interventions were documented by project researchers using a custom-built annotation solution, linked to digitized page images from PUL digital editions for this collection.
+  > Works cited by Derrida in De la grammatologie were documented in a private Zotero library using a custom tagging system to indicate the location and kind of references in a particular work. That data was imported by script into a custom database, creating records for books, sections of books, and journal articles. Records were also created for references in De la grammatologie based on information encoded in the Zotero tags. The book and reference data was further cleaned and refined in the database after import; items with digital editions available from PUL were linked via IIIF. Interventions were documented by project researchers using a custom-built annotation solution, linked to digitized page images from PUL digital editions for this collection. Insertions in digitized editions of Derrida's books were labeled with a custom scheme to identify them in references to the pages they were inserted between.
 
 * Software-specific information:
   > All files in this collection are given in open formats, so no specialty software is needed to use them.
