@@ -22,7 +22,7 @@ Dataset Version and Release History
 * Current Version:
   * Number: 1.1.1
   * Date: 2021-10-26
-  * Persistent identifier: <&&&>
+  * Persistent identifier: <https://doi.org/10.34770/2ezk-1104>
   * Summary of changes: Removed the unnecessary "dimensions" field from the library dataset. 
 
 * Prior Versions:
@@ -34,7 +34,7 @@ Dataset Attribution and Usage
 
 * Dataset Title: Derrida's Margins datasets
 
-* Persistent Identifier: <&&&>
+* Persistent Identifier: <https://doi.org/10.34770/2ezk-1104>
 
 * Dataset Contributors (and ORCIDs):
 
