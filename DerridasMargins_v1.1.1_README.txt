@@ -195,7 +195,7 @@ Details for: annotations.csv
 
 * Size: 797K
 
-* Dimensions: 1421 rows; 16 columns
+* Dimensions: 1420 rows; 16 columns
 
 * Variables: The first line contains variable names as column headers. They are:
   * id : Unique identifier linking to the annotation's page
