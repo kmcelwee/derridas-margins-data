@@ -155,7 +155,7 @@ Table of Contents
 -----------------
 
 * DerridasMargins_v1.1_README.txt
-* datapackage.yaml
+* datapackage.json
 * annotations.csv
 * annotations.json
 * insertions.csv
@@ -169,17 +169,17 @@ Setup
 -----
 
 * Relationships between files/folders:
-  > Relationships like foreign keys are documented in datapackage.yaml
+  > Relationships like foreign keys are documented in datapackage.json
 
 - - -
 
 File/Folder Details
 ===================
 
-Details for: datapackage.yaml
+Details for: datapackage.json
 ------------------------------------------
 
-The datapackage.yaml file uses FrictionlessData <frictionlessdata.io> to validate CSVs.
+The datapackage.json file uses FrictionlessData <frictionlessdata.io> to validate CSVs.
 Foreign keys, field types, and other constraints are documented in this file.
 
 Details for: annotations.csv
