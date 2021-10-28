@@ -154,7 +154,7 @@ Naming Conventions
 Table of Contents
 -----------------
 
-* DerridasMargins_v1.1_README.txt
+* DerridasMargins_v1.1.1_README.txt
 * datapackage.json
 * annotations.csv
 * annotations.json
