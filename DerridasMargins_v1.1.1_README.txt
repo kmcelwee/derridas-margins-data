@@ -21,12 +21,12 @@ Dataset Version and Release History
 
 * Current Version:
   * Number: 1.1.1
-  * Date: 2021-10-26
+  * Date: 2021-10-29
   * Persistent identifier: <https://doi.org/10.34770/2ezk-1104>
-  * Summary of changes: Removed the unnecessary "dimensions" field from the library dataset. 
+  * Summary of changes: Removed the unnecessary "dimensions" field from the "library" dataset; omitted a record with missing data in the "annotations" dataset; converted the "datapackage" from YAML to JSON.
 
 * Prior Versions:
-  * 1.1.0, 2021-10-14, <https://doi.org/10.34770/8nc6-4418>
+  * 1.1.0, 2021-10-15, <https://doi.org/10.34770/8nc6-4418>
   * 1.0.0, 2018-09-10, <https://doi.org/10.6084/m9.figshare.c.4256927.v1>
 
 Dataset Attribution and Usage
@@ -53,7 +53,7 @@ Dataset Attribution and Usage
     * Kevin McElwee, <0000-0003-2577-8102>
     * Chloé Vettier
 
-* Date of Issue: 2021-10-26
+* Date of Issue: 2021-10-29
 
 * Publisher: Center for Digital Humanities at Princeton
 
